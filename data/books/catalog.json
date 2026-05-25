@@ -6,5 +6,13 @@
     "year": 1870,
     "description": "A philosophical novella exploring themes of love, power, and obsession.",
     "chapterCount": 15
+  },
+  {
+    "slug": "the-picture-of-dorian-gray",
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "year": 1890,
+    "description": "A philosophical novel about beauty, corruption, and the dark consequences of a life devoted to pleasure.",
+    "chapterCount": 20
   }
 ]
